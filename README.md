@@ -1,4 +1,5 @@
-- 👋 Hello, I’m Nikunj (Nick)!
+#   Hello, I’m Nikunj (Nick)!
+
 - 🌱 I’m currently... learning and improving my Data Structures and Algorithms concepts
 - 💞️ I’m looking to collaborate on... any Software Engineering projects in Python
 - 📫 How to reach me... nikunjmbpatel@gmail.com
